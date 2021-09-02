@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KCLeLa Programm</string>
+    <string name="app_hardcoded_subtitle">27. August – 07. September 2021</string>
+    <string name="conference_name" translatable="false">Klimacamp Leipziger Land</string>
+    <string name="copyright_logo">
+        <![CDATA[KC LeLa]]>
+    </string>
+    <string name="about_logo_content_description">
+        kclela logo
+    </string>
+</resources>
